@@ -29,5 +29,8 @@
     * [ShadowsocksD](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/android/shadowsocksd.md)
   * [IOS](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/ios.md)
   * [MacOS](ruan-jian-xia-zai-shi-yong/ruan-jian-shi-yong/macos.md)
-* [常见问题及简单解答](ruan-jian-xia-zai-shi-yong/chang-jian-wen-ti-ji-jian-dan-jie-da.md)
+* [常见问题及简单解答](ruan-jian-xia-zai-shi-yong/chang-jian-wen-ti-ji-jian-dan-jie-da/README.md)
+  * [你可能会提出的问题](ruan-jian-xia-zai-shi-yong/chang-jian-wen-ti-ji-jian-dan-jie-da/ni-ke-neng-hui-ti-chu-de-wen-ti.md)
+  * [提问的艺术](ruan-jian-xia-zai-shi-yong/chang-jian-wen-ti-ji-jian-dan-jie-da/ti-wen-de-yi-shu.md)
+  * [群里提问的艺术](ruan-jian-xia-zai-shi-yong/chang-jian-wen-ti-ji-jian-dan-jie-da/qun-li-ti-wen-de-yi-shu.md)
 

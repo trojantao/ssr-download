@@ -4,7 +4,7 @@ description: 如果您不是从 JustSSR 站点链接进入，请关闭本站
 
 # 某网站用户帮助中心
 
-## 亲爱的 JustSSR 用户，欢迎你来到这里
+## 亲爱的 [JustSSR ](https://www.justssr.com)用户，欢迎你来到这里
 
 这里是许多 **JustSSR用户** 的 **第一站！**
 
